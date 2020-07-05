@@ -1,3 +1,10 @@
+Note: execute below set of commands to run the application-
+cd react-material-ui-login-form
+npm install
+npm install @material-ui/core
+npm install @material-ui/icons
+npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
